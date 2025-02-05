@@ -55731,7 +55731,7 @@ q=4
 s=7
 return A.m(o.a.C1(),$async$x_)
 case 7:n=c
-if(a.e!=null)A.Rp(A.h0(A.f(n.d.f),0,null),B.v7)
+A.Rp(A.h0(A.f(n.d.f),0,null),B.v7)
 q=1
 s=6
 break
